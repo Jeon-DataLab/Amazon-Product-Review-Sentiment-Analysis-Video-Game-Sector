@@ -7,7 +7,7 @@ This repository hosts a sentiment analysis project that examines customer review
 - Assist businesses in making data-driven decisions based on customer sentiment.
 - Provide insights for game developers and publishers on customer preferences.
 
-**- How the project was conducted:**
+**How the project was conducted:**
 Data Preprocessing: The project starts with cleaning and preprocessing Amazon video game reviews. This includes text normalization, removing non-alphabetic characters, and filtering out stopwords.
 Model Training with AutoGluon: The core of the project involves using AutoGluon, an automated machine learning tool, to train models capable of sentiment analysis. AutoGluon simplifies the model selection and hyperparameter tuning process.
 Dataset Splitting: The dataset is split into training, validation, and testing subsets to ensure robust model training and evaluation.
